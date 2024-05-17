@@ -1,0 +1,3 @@
+[GPT]
+base_url = "https://api.openai.com/v1"  # 默认
+api_key = "<API_KEY>"
