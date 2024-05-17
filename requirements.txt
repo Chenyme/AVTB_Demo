@@ -1,5 +1,6 @@
-streamlit moviepy
-openai
-opencv-python
-streamlit_antd_components
 re
+openai
+moviepy
+opencv-python
+streamlit
+streamlit_antd_components
