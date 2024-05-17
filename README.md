@@ -17,4 +17,8 @@ pip install -r requirements.txt
 streamlit run AVTB.py
 ```
 
+## 配置参数
+`config.toml`中配置
+或者`网页`中输入
+
 [测试效果](https://github.com/Chenyme/Chenyme_AVTB_Demo/blob/main/output/test/output.md)
