@@ -17,3 +17,4 @@ pip install -r requirements.txt
 streamlit run AVTB.py
 ```
 
+[测试效果](https://github.com/Chenyme/Chenyme_AVTB_Demo/blob/main/output/test/output.md)
